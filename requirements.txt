@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.24
+river>=0.15.0
+kafka-python>=2.0.2
+scikit-learn>=1.2
+yfinance>=0.2.22
+streamlit>=1.25
+matplotlib>=3.6
+tqdm>=4.65
+jupyter>=1.0.0
+notebook>=6.0.0

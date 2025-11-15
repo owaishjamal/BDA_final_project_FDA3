@@ -1,0 +1,5 @@
+company,ticker,period,policy_text,revenue,revenue_cashflow,deferred_revenue
+NVIDIA,NVDA,2023Q3,"We recognize revenue when control transfers; multiple-element arrangements considered aggressive.",10000,9000,1500
+JPMORGAN,JPM,2023Q3,"Revenue recognized on an accrual basis; consistent with conservative measurement.",12000,11000,400
+WALMART,WMT,2023Q3,"Revenue recognized at point of sale; deferred revenue immaterial.",5000,5200,200
+ACME_CORP,ACME,2023Q3,"Company uses variable consideration and aggressive recognition in some contracts.",7000,5000,900
